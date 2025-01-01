@@ -1,3 +1,6 @@
+# This time i didnt skid! i stole!
+
+
 # Account Link & Recovery Bot 🤖  
 
 This repository contains a **Telegram bot** designed for **account linking** and **recovery** purposes. Whether you're connecting in-game accounts or restoring lost data, this bot simplifies the process with its intuitive commands and database integration.  
