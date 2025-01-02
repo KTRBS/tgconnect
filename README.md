@@ -30,8 +30,7 @@ This repository contains a **Telegram bot** designed for **account linking** and
 - **`database/Player/plr.db`**: Stores game-related player data.  
 
 ## 📝 Setup  
-1. Clone the repository.  
+1. Place this file inside server.  
 2. Install required dependencies using `pip install pyTelegramBotAPI`.  
 3. Replace the `YOUR_BOT_TOKEN` in the script with your Telegram Bot Token.  
-4. Set up the SQLite databases for user and player data.  
-5. Run the bot using `python bot.py`.
+4. Run the bot using `python bot.py`.
