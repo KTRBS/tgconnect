@@ -1,4 +1,4 @@
-# This time i didnt skid! i stole!
+# not my code
 
 
 # Account Link & Recovery Bot 🤖  
